@@ -1,0 +1,5 @@
+========================================
+   🔓 BruteXStrike - Brute Force Tool
+       Made by MD ABDULLAH
+     Fast. Smart. Powerful.
+========================================
